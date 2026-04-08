@@ -114,7 +114,7 @@ A personal finance management system with **expense tracking, EMI planning & rep
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jahfarjs/Jahfarjs/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Jahfarjs/Jahfarjs/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
