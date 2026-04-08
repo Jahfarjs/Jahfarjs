@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,git,vscode,nextjs,tailwind" />
 </p>
 
 ---
