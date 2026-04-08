@@ -91,9 +91,17 @@ A personal finance management system with **expense tracking, EMI planning & rep
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jahfarjs&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jahfarjs&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jahfarjs&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jahfarjs&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jahfarjs&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📫 Connect With Me
