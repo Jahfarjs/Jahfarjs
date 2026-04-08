@@ -33,10 +33,15 @@
 
 ## 🚀 Featured Projects
 
+---
+
 ### 🏢 People’s ERP
 
-🔗 https://github.com/D4dx-backend/people-s
-A scalable ERP system with **multi-franchise architecture**, designed to manage distributed operations efficiently.
+🔗 [Repository](https://github.com/D4dx-backend/people-s)
+💡 Multi-franchise ERP system for managing distributed operations
+
+⚙️ **Tech:** Node.js • Express • MongoDB • React
+✨ **Highlights:** Multi-tenant architecture • Scalable backend • Role-based access
 
 ---
 
@@ -44,21 +49,33 @@ A scalable ERP system with **multi-franchise architecture**, designed to manage 
 
 🔗 Backend: https://github.com/D4dx-backend/hira_plus_backend
 🔗 Frontend: https://github.com/D4dx-backend/hira_plus_frontend
-A complete organization management system with **admin, receptionist, mess & user modules**.
+
+💡 Complete organization management system
+
+⚙️ **Tech:** MERN Stack
+✨ **Highlights:** Admin • Receptionist • Mess • User modules • Real-time workflows
 
 ---
 
 ### 🕋 Thanima Hajj & Umrah
 
 🔗 https://github.com/D4dx-backend/hajj_umra_backend
-A guidance platform for Hajj & Umrah including **navigation, camp tracking, hotel info & support system**.
+
+💡 Smart guidance system for pilgrims
+
+⚙️ **Tech:** Node.js • MongoDB • APIs
+✨ **Highlights:** Navigation • Camp tracking • Hotel data • Support system
 
 ---
 
 ### 🏘️ Mahall Connect
 
 🔗 https://github.com/D4dx-backend/mahallu-management
-A village-level management system handling **nikkah registration, zakath tracking, NOC services & family records**.
+
+💡 Village-level digital management platform
+
+⚙️ **Tech:** MERN Stack
+✨ **Highlights:** Nikkah registration • Zakath tracking • NOC • Family records
 
 ---
 
@@ -66,7 +83,11 @@ A village-level management system handling **nikkah registration, zakath trackin
 
 🔗 Admin: https://github.com/D4dx-backend/zaitoon-admin
 🔗 API: https://github.com/D4dx-backend/zaitoon-api
-An interactive platform for kids featuring **stories, videos, quizzes & talent showcasing**.
+
+💡 Learning + entertainment platform for kids
+
+⚙️ **Tech:** Node.js • Express • MongoDB
+✨ **Highlights:** Stories • Videos • Quizzes • Talent showcase
 
 ---
 
@@ -74,7 +95,11 @@ An interactive platform for kids featuring **stories, videos, quizzes & talent s
 
 🔗 API: https://github.com/D4dx-backend/hisabi-api
 🔗 Admin: https://github.com/D4dx-backend/hisabi-admin
-A personal tracking system for **prayers, habits, goals & yearly progress mapping**.
+
+💡 Personal productivity & tracking system
+
+⚙️ **Tech:** MERN Stack
+✨ **Highlights:** Prayer tracking • Goals • Habit system • Year mapping
 
 ---
 
@@ -82,16 +107,25 @@ A personal tracking system for **prayers, habits, goals & yearly progress mappin
 
 🔗 Backend: https://github.com/Jahfarjs/elorie-backend
 🔗 Frontend: https://github.com/Jahfarjs/elorie
-A full-featured e-commerce platform with **CMS, Razorpay integration, cart, filtering & order tracking**.
+
+💡 Full-featured e-commerce system
+
+⚙️ **Tech:** MERN • Razorpay • JWT Auth
+✨ **Highlights:** CMS • Cart • Filters • Payments • Order tracking
 
 ---
 
 ### 💰 FinTrack
 
 🔗 https://github.com/Jahfarjs/finance-manager
-A personal finance management system with **expense tracking, EMI planning & reporting tools**.
+
+💡 Personal finance & expense tracking system
+
+⚙️ **Tech:** React • Node.js • MongoDB
+✨ **Highlights:** Expense tracking • EMI planning • Reports • Goal setting
 
 ---
+
 
 ## 📊 GitHub Stats  
 
