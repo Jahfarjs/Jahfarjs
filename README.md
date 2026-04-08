@@ -92,10 +92,10 @@ A personal finance management system with **expense tracking, EMI planning & rep
 ## 📊 GitHub Stats
 
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahfarjs&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahfarjs&layout=compact&theme=tokyonight&cache_seconds=1800)
-
 ---
 
 ## 📫 Connect With Me
