@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jahfar</h1>
-<h3 align="center">🚀 MERN Stack Developer | System Builder</h3>
+<h1 align="center">Hey 👋, I'm Jahfar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Backend+Focused;Building+Real+World+Apps;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+  <a href="mailto:jahfarswadikh1010@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/jahfar-swadikh-k-9986302b1/">LinkedIn</a>
+</p>
+
 
 
 🚀 **Full Stack MERN Developer** | Building scalable, real-world applications
