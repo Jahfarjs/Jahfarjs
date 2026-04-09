@@ -1,4 +1,6 @@
-# 👋 Hey, I'm Jahfar Swadikh K
+<h1 align="center">Hi 👋, I'm Jahfar</h1>
+<h3 align="center">🚀 MERN Stack Developer | System Builder</h3>
+
 
 🚀 **Full Stack MERN Developer** | Building scalable, real-world applications
 💡 Turning complex ideas into clean, efficient & user-friendly systems
